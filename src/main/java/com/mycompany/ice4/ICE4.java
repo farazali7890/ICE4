@@ -11,6 +11,6 @@ package com.mycompany.ice4;
 public class ICE4 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("This is ICE4!!!");
     }
 }
